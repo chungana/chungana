@@ -1,0 +1,44 @@
+body {
+  font-family:Arial,sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+header {
+  background-color: #007BFF;
+  color: yellow;
+  text-align: center;
+  padding: 20px;
+}
+ 
+.korosho-img{
+  width: 30%;
+  height: auto;
+}
+
+.language-switch{
+  margin: 30px 0;
+}
+
+nav{
+  margin: 10px 0;
+}
+
+nav a{
+  color:black;
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+input,textarea{
+  margin-botton: 10px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px
+  cursor: pointer;
+}
+
+button:hover{
+  background-color: #218838;
+}
